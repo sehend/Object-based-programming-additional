@@ -1,0 +1,6 @@
+c:\users\lab2\documents\visual studio 2015\Projects\Diziler\Diziler\bin\Debug\Diziler.exe.config
+c:\users\lab2\documents\visual studio 2015\Projects\Diziler\Diziler\bin\Debug\Diziler.exe
+c:\users\lab2\documents\visual studio 2015\Projects\Diziler\Diziler\bin\Debug\Diziler.pdb
+c:\users\lab2\documents\visual studio 2015\Projects\Diziler\Diziler\obj\Debug\Diziler.csprojResolveAssemblyReference.cache
+c:\users\lab2\documents\visual studio 2015\Projects\Diziler\Diziler\obj\Debug\Diziler.exe
+c:\users\lab2\documents\visual studio 2015\Projects\Diziler\Diziler\obj\Debug\Diziler.pdb

@@ -1,0 +1,6 @@
+c:\users\lab2\documents\visual studio 2015\Projects\List Ornegi\List Ornegi\bin\Debug\List Ornegi.exe.config
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\List Ornegi\List Ornegi\bin\Debug\List Ornegi.exe
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\List Ornegi\List Ornegi\bin\Debug\List Ornegi.pdb
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\List Ornegi\List Ornegi\obj\Debug\List Ornegi.csprojResolveAssemblyReference.cache
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\List Ornegi\List Ornegi\obj\Debug\List Ornegi.exe
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\List Ornegi\List Ornegi\obj\Debug\List Ornegi.pdb

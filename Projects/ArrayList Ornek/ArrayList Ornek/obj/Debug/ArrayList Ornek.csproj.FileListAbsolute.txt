@@ -1,0 +1,6 @@
+c:\users\lab2\documents\visual studio 2015\Projects\ArrayList Ornek\ArrayList Ornek\bin\Debug\ArrayList Ornek.exe.config
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\ArrayList Ornek\ArrayList Ornek\bin\Debug\ArrayList Ornek.exe
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\ArrayList Ornek\ArrayList Ornek\bin\Debug\ArrayList Ornek.pdb
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\ArrayList Ornek\ArrayList Ornek\obj\Debug\ArrayList Ornek.exe
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\ArrayList Ornek\ArrayList Ornek\obj\Debug\ArrayList Ornek.pdb
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\ArrayList Ornek\ArrayList Ornek\obj\Debug\ArrayList Ornek.csprojResolveAssemblyReference.cache

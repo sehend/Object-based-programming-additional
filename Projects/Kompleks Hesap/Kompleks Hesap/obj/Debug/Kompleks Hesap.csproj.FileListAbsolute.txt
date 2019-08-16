@@ -1,0 +1,6 @@
+c:\users\lab2\documents\visual studio 2015\Projects\Kompleks Hesap\Kompleks Hesap\bin\Debug\Kompleks Hesap.exe.config
+c:\users\lab2\documents\visual studio 2015\Projects\Kompleks Hesap\Kompleks Hesap\bin\Debug\Kompleks Hesap.exe
+c:\users\lab2\documents\visual studio 2015\Projects\Kompleks Hesap\Kompleks Hesap\bin\Debug\Kompleks Hesap.pdb
+c:\users\lab2\documents\visual studio 2015\Projects\Kompleks Hesap\Kompleks Hesap\obj\Debug\Kompleks Hesap.csprojResolveAssemblyReference.cache
+c:\users\lab2\documents\visual studio 2015\Projects\Kompleks Hesap\Kompleks Hesap\obj\Debug\Kompleks Hesap.exe
+c:\users\lab2\documents\visual studio 2015\Projects\Kompleks Hesap\Kompleks Hesap\obj\Debug\Kompleks Hesap.pdb

@@ -1,0 +1,6 @@
+c:\users\lab2\documents\visual studio 2015\Projects\Nesne\Nesne\bin\Debug\Nesne.exe.config
+c:\users\lab2\documents\visual studio 2015\Projects\Nesne\Nesne\obj\Debug\Nesne.csprojResolveAssemblyReference.cache
+c:\users\lab2\documents\visual studio 2015\Projects\Nesne\Nesne\bin\Debug\Nesne.exe
+c:\users\lab2\documents\visual studio 2015\Projects\Nesne\Nesne\bin\Debug\Nesne.pdb
+c:\users\lab2\documents\visual studio 2015\Projects\Nesne\Nesne\obj\Debug\Nesne.exe
+c:\users\lab2\documents\visual studio 2015\Projects\Nesne\Nesne\obj\Debug\Nesne.pdb
